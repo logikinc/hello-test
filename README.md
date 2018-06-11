@@ -9,6 +9,8 @@ a client.
 Project Structure
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/logikinc/hello-test.svg)](https://greenkeeper.io/)
+
 The default project directory includes the following files and folders:
 
 * assets/ — Contains global style sheets and images for the application.
